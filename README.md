@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EllenBTC21M
 - 👀 I’m interested in Bitcoin Lightning Network and Nostr
-- 🌱 I’m currently learning how to use github
+- 🌱 I’m currently learning how to use github.
 - 📫 [How to reach me ...](https://keybase.io/ellenjoseph)
 Nostr Pubkey: npub1z8562asewsp94z6tvvxq2ly9rfa8kzr3jpgxpry6tf0gt2xf6xwqd6dcqm
 
